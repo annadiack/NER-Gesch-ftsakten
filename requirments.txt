@@ -1,0 +1,8 @@
+transformers
+torch
+pytesseract
+pdfplumber
+pdf2image
+pillow
+lxml
+tqdm
